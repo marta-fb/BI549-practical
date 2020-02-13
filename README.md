@@ -1,7 +1,7 @@
 # BI549-practical
 
 
-## This repository contains the datasets for the BI548 practical at the University of Kent, UK.
+## This repository contains the datasets for the BI549 practical at the University of Kent, UK.
 
 
 ### Dummy set
