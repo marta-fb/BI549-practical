@@ -1,7 +1,7 @@
-# BI549-practical
+# BI549 The Genome
 
 
-## This repository contains the datasets for the BI549 practical at the University of Kent, UK.
+## This repository contains the datasets for the BI549 module at the University of Kent.
 
 
 ### Dummy set
