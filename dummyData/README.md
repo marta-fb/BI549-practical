@@ -1,4 +1,4 @@
-# The dummy dataset is based on genes SON and GART
+# The dummy dataset is based on gene OLIG2
 
 
 
