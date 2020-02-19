@@ -11,4 +11,4 @@ Fastq files: father.1.fastq and father.2.fastq
 
 BAM files: mother.bam and son.bam  
 
-PED file: family.ped  
+PED file: trio-data.txt  
