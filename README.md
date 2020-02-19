@@ -11,7 +11,7 @@ During the practical, follow the instructions in the manual and use the dummyDat
 
     2. BAM files: mother.bam and son.bam
 
-    3. PED file: family.ped
+    3. PED file: trio-data.txt
     
     
 
