@@ -1,4 +1,0 @@
-#family_id	sample_id	paternal_id	maternal_id	sex	phenotype	ethnicity
-family1	mother	-9	-9	2	1	CEU
-family1	father	-9	-9	1	1	CEU
-family1	son	father	mother	1	2	CEU
